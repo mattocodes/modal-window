@@ -1,7 +1,7 @@
 # Modal Window
 
 
-In this project, I created a modal window in just CSS3
+In this project, I created a modal window with only CSS3
 
 
 ## Mission
